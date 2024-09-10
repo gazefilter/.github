@@ -4,6 +4,8 @@ GazeFilter Project is dedicated to developing cutting-edge web-based eye-trackin
 
 ## Features
 
+[gazefilter.app](https://gazefilter.app) provides powerful web-based eye-tracking with these core features:
+
 - **Local Processing**: Video stream is processed on-device, ensuring privacy and lowest latency for real-time tracking.
 - **Resource Efficiency**: Utilizes classical machine learning and computer vision algorithms for optimal performance, avoiding heavy deep learning models.
 - **Web Embeddable**: Easily integrate eye-tracking into your web applications by running it in a separate browser context.
