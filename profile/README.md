@@ -1,7 +1,13 @@
 ## About
 
-GazeFilter is dedicated to developing cutting-edge web-based eye-tracking technology. It's main focus is to make eye-tracking accessible and easy to integrate into web applications, providing developers and researchers with access to user gaze behavior.
+GazeFilter Project is dedicated to developing cutting-edge web-based eye-tracking technology. Its main focus is to make eye-tracking accessible and easy to integrate into web applications, providing developers and researchers with access to user gaze behavior.
 
-The technology is engineered for optimal performance, offering real-time eye tracking with minimal latency and efficient resource utilization. This ensures seamless integration without compromising the speed or responsiveness of web applications, making GazeFilter an ideal solution for a wide range of digital experiences.
+## Features
+
+- **Local Processing**: Video stream is processed on-device, ensuring privacy and lowest latency for real-time tracking.
+- **Resource Efficiency**: Utilizes classical machine learning and computer vision algorithms for optimal performance, avoiding heavy deep learning models.
+- **Web Embeddable**: Easily integrate eye-tracking into your web applications by running it in a separate browser context.
+
+## Support
 
 <a href="https://polar.sh/gazefilter"><picture><source media="(prefers-color-scheme: dark)" srcset="https://polar.sh/embed/subscribe.svg?org=gazefilter&label=Subscribe&darkmode"><img alt="Subscribe on Polar" src="https://polar.sh/embed/subscribe.svg?org=gazefilter&label=Subscribe"></picture></a>
