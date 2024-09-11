@@ -1,3 +1,5 @@
+<a href="https://polar.sh/gazefilter"><picture><source media="(prefers-color-scheme: dark)" srcset="https://polar.sh/embed/subscribe.svg?org=gazefilter&label=Subscribe&darkmode"><img alt="Subscribe on Polar" src="https://polar.sh/embed/subscribe.svg?org=gazefilter&label=Subscribe" height=40></picture></a>
+
 ## About
 
 GazeFilter Project is dedicated to developing cutting-edge web-based eye-tracking technology. Its main focus is to make eye-tracking accessible and easy to integrate into web applications, providing developers and researchers with access to user gaze behavior.
@@ -25,8 +27,11 @@ Gazefilter aims to provide broad compatibility across different browsers and ope
 | iPhone   |   🚧   |  ❔  |   ❌    |  🚧   |
 | iPad     |   🚧   |  ❔  |   ❌    |  🚧   |
 
-<sup>✅ - compatible, 🚧 - under development, ❔ - unknown, ❌ - not compatible, ➖ - browser not available</sup>
+<sup>✅ — compatible, 🚧 — under development, ❔ — unknown, ❌ — not compatible, ➖ — browser not available</sup>
 
-## Support
+## Applications
 
-<a href="https://polar.sh/gazefilter"><picture><source media="(prefers-color-scheme: dark)" srcset="https://polar.sh/embed/subscribe.svg?org=gazefilter&label=Subscribe&darkmode"><img alt="Subscribe on Polar" src="https://polar.sh/embed/subscribe.svg?org=gazefilter&label=Subscribe"></picture></a>
+The following projects rely on this eye-tracking solution:
+
+- [anima.help](https://anima.help) — neuroscientific mental wellness tracker,
+- [eyepass.tech](https://eyepass.tech) — e-learning analytics platform.
