@@ -14,22 +14,18 @@ You can try out these features and experience GazeFilter in action at [gazefilte
 
 ## Compatibility
 
-Gazefilter aims to provide broad compatibility across different browsers and operating systems. The table below illustrates the current support status:
-
-- ✅ Compatible
-- 🚧 Compatibility is under development
-- ❔ Compatibility is unknown
-- ❌ Not compatible
-- ➖ Browser not available on this platform
+Gazefilter aims to provide broad compatibility across different browsers and operating systems. The table below illustrates the current compatibility status:
 
 | Platform | Chrome  | Edge | Firefox | Safari |
 |----------|:-------:|:----:|:-------:|:------:|
 | Windows  |   ✅   |  ✅  |   ✅    |  ➖   |
-| Mac      |   ❔   |  ❔  |   ❔    |  ❔   |
+| Mac      |   ✅   |  ❔  |   ❔    |  ✅   |
 | Linux    |   ❔   |  ❔  |   ❔    |  ➖   |
 | Android  |   ✅   |  ✅  |   ✅    |  ➖   |
 | iPhone   |   🚧   |  ❔  |   ❌    |  🚧   |
 | iPad     |   🚧   |  ❔  |   ❌    |  🚧   |
+
+<sup>✅ - compatible, 🚧 - under development, ❔ - unknown, ❌ - not compatible, ➖ - browser not available</sup>
 
 ## Support
 
