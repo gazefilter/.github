@@ -19,7 +19,7 @@ Gazefilter aims to provide broad compatibility across different browsers and ope
 | Platform | Chrome  | Edge | Firefox | Safari |
 |----------|:-------:|:----:|:-------:|:------:|
 | Windows  |   ✅   |  ✅  |   ✅    |  ➖   |
-| Mac      |   ✅   |  ❔  |   ❔    |  ✅   |
+| Mac      |   ✅   |  ✅  |   ✅    |  ✅   |
 | Linux    |   ❔   |  ❔  |   ❔    |  ➖   |
 | Android  |   ✅   |  ✅  |   ✅    |  ➖   |
 | iPhone   |   🚧   |  ❔  |   ❌    |  🚧   |
