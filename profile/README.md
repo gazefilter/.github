@@ -12,6 +12,25 @@ GazeFilter application provides powerful web-based eye-tracking with these core 
 
 You can try out these features and experience GazeFilter in action at [gazefilter.app](https://gazefilter.app).
 
+## Compatibility
+
+Gazefilter aims to provide broad compatibility across different browsers and operating systems. The table below illustrates the current support status:
+
+- ✅ Compatible
+- 🚧 Compatibility is under development
+- ❔ Compatibility is unknown
+- ❌ Not compatible
+- ➖ Browser not available on this platform
+
+| Platform | Chrome  | Edge | Firefox | Safari |
+|----------|:-------:|:----:|:-------:|:------:|
+| Windows  |   ✅   |  ✅  |   ✅    |  ➖   |
+| Mac      |   ❔   |  ❔  |   ❔    |  ❔   |
+| Linux    |   ❔   |  ❔  |   ❔    |  ➖   |
+| Android  |   ✅   |  ✅  |   ✅    |  ➖   |
+| iPhone   |   🚧   |  ❔  |   ❌    |  🚧   |
+| iPad     |   🚧   |  ❔  |   ❌    |  🚧   |
+
 ## Support
 
 <a href="https://polar.sh/gazefilter"><picture><source media="(prefers-color-scheme: dark)" srcset="https://polar.sh/embed/subscribe.svg?org=gazefilter&label=Subscribe&darkmode"><img alt="Subscribe on Polar" src="https://polar.sh/embed/subscribe.svg?org=gazefilter&label=Subscribe"></picture></a>
