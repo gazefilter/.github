@@ -24,8 +24,7 @@ Gazefilter aims to provide broad compatibility across different browsers and ope
 | Mac      |   ✅   |  ✅  |   ✅    |  ✅   |
 | Linux    |   ❔   |  ❔  |   ❔    |  ➖   |
 | Android  |   ✅   |  ✅  |   ✅    |  ➖   |
-| iPhone   |   🚧   |  ❔  |   ❌    |  🚧   |
-| iPad     |   🚧   |  ❔  |   ❌    |  🚧   |
+| iOS      |   ❔   |  ❔  |   ❔    |  ✅   |
 
 <sup>✅ — compatible, 🚧 — under development, ❔ — unknown, ❌ — not compatible, ➖ — browser not available</sup>
 
