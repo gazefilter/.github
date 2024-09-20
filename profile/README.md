@@ -1,4 +1,6 @@
-<a href="https://polar.sh/gazefilter"><picture><source media="(prefers-color-scheme: dark)" srcset="https://polar.sh/embed/subscribe.svg?org=gazefilter&label=Subscribe&darkmode"><img alt="Subscribe on Polar" src="https://polar.sh/embed/subscribe.svg?org=gazefilter&label=Subscribe" height=40></picture></a>
+<a href="https://gazefilter.app" title="Gazefilter Application"><img src="https://img.shields.io/badge/gazefilter-app-white?style=for-the-badge"></a>
+<a href="https://gazefilter.app/docs/index.html" title="Gazefilter Documentation"><img src="https://img.shields.io/badge/documentation-blue?style=for-the-badge"></a>
+<a href="https://polar.sh/gazefilter" title="Support Gazefilter Project"><img src="https://img.shields.io/badge/polar-sh-034ec7?style=for-the-badge"></a>
 
 ## About
 
@@ -11,22 +13,6 @@ GazeFilter application provides powerful web-based eye-tracking with these core 
 - **Local Processing**: Video stream is processed on-device, ensuring privacy and lowest latency for real-time tracking.
 - **Resource Efficiency**: Utilizes classical machine learning and computer vision algorithms for optimal performance, avoiding heavy deep learning models.
 - **Web Embeddable**: Easily integrate eye-tracking into your web applications by running it in a separate browser context.
-
-You can try out these features and experience GazeFilter in action at [gazefilter.app](https://gazefilter.app).
-
-## Compatibility
-
-Gazefilter aims to provide broad compatibility across different browsers and operating systems. The table below illustrates the current compatibility status:
-
-| Platform | Chrome  | Edge | Firefox | Safari |
-|----------|:-------:|:----:|:-------:|:------:|
-| Windows  |   ✅   |  ✅  |   ✅    |  ➖   |
-| Mac      |   ✅   |  ✅  |   ✅    |  ✅   |
-| Linux    |   ❔   |  ❔  |   ❔    |  ➖   |
-| Android  |   ✅   |  ✅  |   ✅    |  ➖   |
-| iOS      |   ❔   |  ❔  |   ❔    |  ✅   |
-
-<sup>✅ — compatible, 🚧 — under development, ❔ — unknown, ❌ — not compatible, ➖ — browser not available</sup>
 
 ## Applications
 
