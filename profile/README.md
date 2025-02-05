@@ -6,6 +6,9 @@
 
 GazeFilter Project is dedicated to developing cutting-edge web-based eye-tracking technology. Its main focus is to make eye-tracking accessible and easy to integrate into web applications, providing developers and researchers with access to user gaze behavior.
 
+> [!NOTE]
+> The legacy JavaScript library **gazefilter.js** can be found [here](https://beehiveor.gitlab.io/gazefilter/).
+
 ## Features
 
 GazeFilter application provides powerful web-based eye-tracking with these core features:
