@@ -19,4 +19,4 @@ GazeFilter application provides powerful web-based eye-tracking with these core 
 The following projects rely on this eye-tracking solution:
 
 - [anima.help](https://anima.help) — neuroscientific mental wellness tracker,
-- [eyepass.tech](https://eyepass.tech) — e-learning analytics platform.
+- [eyepass.tech](https://beehiveor-eyepass.web.app) — e-learning analytics platform.
